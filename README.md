@@ -35,23 +35,26 @@ This repo contains my curated notes, experiments, and practice projects from **T
 
 ---
 
-## 📂 Structure
+## 📂 Repository Structure
+
+ANY-DATA-CHERNOOOZE/
 ├─ Cherno/
-│ ├─ FunctionPointers_Lambda/
-│ ├─ MultipleRV/
-│ ├─ Namespace/
-│ ├─ OperatorOverload/
-│ ├─ SmartPointer/
-│ ├─ StaticArray/
-│ ├─ Thread/
-│ ├─ Timing/
-│ └─ Vectors/
+│  ├─ FunctionPointers-Lambda/
+│  ├─ MultipleReturnValues/
+│  ├─ Namespace/
+│  ├─ OperatorOverloading/
+│  ├─ SmartPointer/
+│  ├─ StaticArray/
+│  ├─ Thread/
+│  ├─ Timing/
+│  └─ Vectors/
 ├─ OptionalCherno/
-│ ├─ QuickUnion_notFIND/
-│ └─ Union/
+│  ├─ QuickUnion-NotFind/
+│  └─ Union/
 ├─ Sorting/
-│ └─ SortingAlgorithms/
+│  └─ SortingAlgorithms/
 └─ Variant/
+
 ---
 
 ## 📫 Connect / Notes
