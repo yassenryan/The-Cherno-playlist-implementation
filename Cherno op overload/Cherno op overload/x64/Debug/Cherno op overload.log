@@ -1,0 +1,4 @@
+﻿  Cherno op overload.cpp
+C:\Games\3mk\Cherno op overload\Cherno op overload\Cherno op overload.cpp(50,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Games\3mk\Cherno op overload\Cherno op overload\Cherno op overload.cpp(59,24): warning C4390: ';': empty controlled statement found; is this the intent?
+  Cherno op overload.vcxproj -> C:\Games\3mk\Cherno op overload\x64\Debug\Cherno op overload.exe
